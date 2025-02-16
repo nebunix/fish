@@ -14,7 +14,5 @@
 
     programs.bat.enable = true;
     programs.fish.shellAbbrs.cat = "bat";
-
-    programs.kitty.settings.shell = "fish";
   };
 }
